@@ -23,7 +23,7 @@ function Header() {
             </div>
 
             <div className='header__right'>
-                <p>Become a user</p>
+                <p>Become a host</p>
                 <LanguageIcon />
                 <ExpandMoreIcon />
                 <Avatar />
